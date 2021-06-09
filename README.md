@@ -1,1 +1,2 @@
-# Pro-97
+# Number-Guessing-Game
+a simple number guessing game made from Python
